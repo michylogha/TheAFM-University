@@ -1,0 +1,40 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-family: Amaze, serif;
+  Text-color: ;
+}
+
+h2 {
+	font-size: 56px;
+}
+
+.hero {
+  background-image: url("http://cdn.harper-adams.ac.uk/image/news/homepage/170706-Harper-Adams-is-joint-best-university-in-England-f695195.jpg");
+  color: #ffffff;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	padding: 300px 0;
+	margin: 30px;
+}
+
+
+p {
+  font-size:2rem;
+
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 1.25em;
+	text-decoration: none;
+}
+
+#footer {
+  font-size: 0.75rem;
+  
+}
